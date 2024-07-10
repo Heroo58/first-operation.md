@@ -1,0 +1,41 @@
+
+
+.first{
+  color: rgb(44, 138, 44);
+}
+
+.paragraph1-button{
+  background-color: lightgrey;
+  color: black;
+  text-align: justify;
+
+  
+}
+.like{
+  color: rgb(216, 195, 195);
+  border: none;
+  padding: 15px 32px;
+  border-radius: 30px;
+  background-color: rgb(99, 89, 89);
+  cursor: pointer;
+  transition: opacity 1s;
+  
+  
+
+}
+.info{
+  color: red;
+}
+table{
+  font-family: arial, sans-serif;
+  border: 1px solid #dddddd;
+  width: 100%;
+}
+td, th{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;  
+}
+tr:nth-child(even){
+  background-color: #dddddd;
+}
